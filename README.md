@@ -26,6 +26,7 @@ bookstore/
 │   │   ├── auth.middleware.ts # Authentication middleware
 │   │   └── error.middleware.ts # Error handling middleware
 │   └── index.ts        # Application entry point
+├── postman_output_images/  # Postman API response screenshots
 ├── .env                # Environment variables
 ├── .gitignore         # Git ignore file
 ├── package.json       # Project dependencies
@@ -270,4 +271,8 @@ The application follows a modular architecture with clear separation of concerns
 
 MIT 
 
-![API Response Example](images/example-response.png) 
+![API Response Example](images) 
+
+## Postman Collection
+
+Postman screenshots demonstrating API responses are available in the `postman_output_images` directory. 
