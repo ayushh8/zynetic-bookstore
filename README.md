@@ -269,9 +269,6 @@ The application follows a modular architecture with clear separation of concerns
 
 ## License
 
-MIT 
-
-![API Response Example](images) 
 
 ## Postman Collection
 
